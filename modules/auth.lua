@@ -1,0 +1,1 @@
+-- Authentication logic module\nlocal auth = {}\n\nfunction auth.login(username, password)\n    -- Logic for user login\nend\n\nfunction auth.logout()\n    -- Logic for user logout\nend\n\nreturn auth
